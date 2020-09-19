@@ -20,8 +20,8 @@ I am an enthusiastic software Developer from the United Kingdom :uk: who is inte
 
 > Full-Stack Development
 
-#### 💬 Ask me about ...
-#### ⚡ Fun fact: 
+#### 💬 Ask me about:
+> Why I would be good for your company
 
 
 <!--
