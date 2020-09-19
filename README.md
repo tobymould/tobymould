@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an enthusiastic software Developer from the United Kingdom :uk: who is interested in developing software solutions with ReactJS and NodeJS!
+I am an enthusiastic software Developer from the United Kingdom :uk: who is interested in developing software solutions with a wide-array of different languages, currently most experienced with ReactJS and NodeJS!
 
 #### 📬 Get in touch: 
 > LinkedIn: https://www.linkedin.com/in/tobymould/
