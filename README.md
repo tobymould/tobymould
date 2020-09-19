@@ -5,10 +5,19 @@ I am an enthusiastic software Developer from the United Kingdom :uk: who is inte
 > LinkedIn: https://www.linkedin.com/in/tobymould/
 
 ## 🔭 I’m currently working on:
- __https://trello.com/b/VUh8bqv9/plan__
- __https://tobymould.com/__
-- 🌱 I’m currently learning: __Node.js & React Native__
-- 👯 I’m looking to collaborate on ...
+ https://trello.com/b/VUh8bqv9/plan
+ https://tobymould.com/
+
+## 🌱 I’m currently learning: 
+__Node.js & React Native__
+
+## I’m looking to collaborate on:
+Difficult and Challenging projects 
+
+## I'm interested in roles relating to:
+- Front-End Development
+- Full-Stack Development
+
 - 💬 Ask me about ...
 - ⚡ Fun fact: 
 
