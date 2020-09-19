@@ -17,6 +17,7 @@ I am an enthusiastic software Developer from the United Kingdom :uk: who is inte
 
 #### 👷 I'm interested in roles relating to:
 > Front-End Development
+
 > Full-Stack Development
 
 #### 💬 Ask me about ...
