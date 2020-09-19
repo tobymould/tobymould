@@ -1,4 +1,4 @@
-### Hey there 👋
+### Howdy Partner 👋
 I am an enthusiastic software Developer from the United Kingdom :uk: who is interested in developing software solutions with the language most suitable for the job. I am currently most experienced in the use of ReactJS and NodeJS!
 
 #### 📬 Get in touch: 
@@ -13,7 +13,7 @@ I am an enthusiastic software Developer from the United Kingdom :uk: who is inte
 > __Node.js & React Native__
 
 #### :octocat: I’m looking to collaborate on:
-> Difficult and Challenging projects 
+> Difficult and challenging projects 
 
 #### 👷 I'm interested in roles relating to:
 > Front-End Development
