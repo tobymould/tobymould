@@ -5,9 +5,8 @@ I am an enthusiastic software Developer from the United Kingdom :uk: who is inte
 > LinkedIn: https://www.linkedin.com/in/tobymould/
 
 #### 🔭 I’m currently working on:
- > Trello Board: https://trello.com/b/VUh8bqv9/plan
- 
  > Projects: https://tobymould.com/
+ > Trello Board: https://trello.com/b/VUh8bqv9/plan
 
 #### 🌱 I’m currently learning: 
 > __Node.js & React Native__
