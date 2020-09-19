@@ -1,4 +1,4 @@
-### Howdy Partner 👋
+### Howdy Partner! 👋
 I am an enthusiastic software Developer from the United Kingdom :uk: who is interested in developing software solutions with the language most suitable for the job. I am currently most experienced in the use of ReactJS and NodeJS!
 
 #### 📬 Get in touch: 
