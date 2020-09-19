@@ -11,10 +11,10 @@ I am an enthusiastic software Developer from the United Kingdom :uk: who is inte
 ### 🌱 I’m currently learning: 
 __Node.js & React Native__
 
-### I’m looking to collaborate on:
+### 👬👭👫I’m looking to collaborate on:
 Difficult and Challenging projects 
 
-### 👬👭👫I'm interested in roles relating to:
+### 👷 I'm interested in roles relating to:
 Front-End Development
 Full-Stack Development
 
