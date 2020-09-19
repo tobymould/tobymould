@@ -15,8 +15,8 @@ __Node.js & React Native__
 Difficult and Challenging projects 
 
 ## I'm interested in roles relating to:
-- Front-End Development
-- Full-Stack Development
+Front-End Development
+Full-Stack Development
 
 - 💬 Ask me about ...
 - ⚡ Fun fact: 
