@@ -6,17 +6,18 @@ I am an enthusiastic software Developer from the United Kingdom :uk: who is inte
 
 #### 🔭 I’m currently working on:
  > Trello Board: https://trello.com/b/VUh8bqv9/plan
+ 
  > Projects: https://tobymould.com/
 
 #### 🌱 I’m currently learning: 
-__Node.js & React Native__
+> __Node.js & React Native__
 
 #### :octocat: I’m looking to collaborate on:
-Difficult and Challenging projects 
+> Difficult and Challenging projects 
 
 #### 👷 I'm interested in roles relating to:
-Front-End Development
-Full-Stack Development
+> Front-End Development
+> Full-Stack Development
 
 #### 💬 Ask me about ...
 #### ⚡ Fun fact: 
