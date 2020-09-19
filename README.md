@@ -1,12 +1,12 @@
 ### Hi there 👋
-I am a software Developer from the United Kingdom :uk: who is interested in developing software solutions with ReactJS and NodeJS!
+I am an enthusiastic software Developer from the United Kingdom :uk: who is interested in developing software solutions with ReactJS and NodeJS!
 
-See what I am currently working on at tobymould.com
-
-# 📬 Get in touch: 
+## 📬 Get in touch: 
 > LinkedIn: https://www.linkedin.com/in/tobymould/
 
-- 🔭 I’m currently working on: __https://trello.com/b/VUh8bqv9/plan
+## 🔭 I’m currently working on:
+ __https://trello.com/b/VUh8bqv9/plan
+
 - 🌱 I’m currently learning: __Node.js & React Native__
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about ...
