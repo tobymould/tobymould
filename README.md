@@ -4,6 +4,11 @@ I am an enthusiastic software Developer from the United Kingdom :uk: who is inte
 #### 📬 Get in touch: 
 > LinkedIn: https://www.linkedin.com/in/tobymould/
 
+#### 👷 I'm interested in roles relating to:
+__Front-End Development__
+
+__Full-Stack Development__
+
 #### 🔭 I’m currently working on:
  > Projects: https://tobymould.com/
  
@@ -14,11 +19,6 @@ I am an enthusiastic software Developer from the United Kingdom :uk: who is inte
 
 #### :octocat: I’m looking to collaborate on:
 > Difficult and challenging projects 
-
-#### 👷 I'm interested in roles relating to:
-> __Front-End Development__
-
-> __Full-Stack Development__
 
 #### 💬 Ask me about:
 > Why I would be good for your company
