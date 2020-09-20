@@ -5,14 +5,14 @@ I am an enthusiastic software Developer from the United Kingdom :uk: who is inte
 > LinkedIn: https://www.linkedin.com/in/tobymould/
 
 #### 👷 I'm interested in roles relating to:
-Front-End Development
+> Front-End Development
 
-Full-Stack Development
+> Full-Stack Development
 
 #### 🔭 I’m currently working on:
- > Projects: https://tobymould.com/
+> Projects: https://tobymould.com/
  
- > Trello Board: https://trello.com/b/VUh8bqv9/plan
+> Trello Board: https://trello.com/b/VUh8bqv9/plan
 
 #### 🌱 I’m currently learning: 
 > Node.js & React Native
