@@ -5,7 +5,7 @@ I am an enthusiastic software developer from the United Kingdom :uk: who is inte
 > LinkedIn: https://www.linkedin.com/in/tobymould/
 
 #### 👷 I'm interested in roles relating to:
-> Front-end|Full-stack|Software Development
+> Front-end | Full-stack | Software Development
 
 #### 🔭 I’m currently working on:
 > Projects: https://tobymould.com/
