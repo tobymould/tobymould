@@ -1,5 +1,5 @@
 ### Howdy Partner! 👋
-I am an enthusiastic Cloud Software Developer from the United Kingdom :uk:.
+I am an enthusiastic Cloud Software Developer from the United Kingdom :uk: .
 
 #### 📬 Get in touch: 
 > LinkedIn: https://www.linkedin.com/in/tobymould/
