@@ -1,8 +1,5 @@
 ### Howdy Partner! 👋
-I am an enthusiastic Cloud Software Developer from the United Kingdom.
 
-#### 📬 Get in touch: 
-> LinkedIn: https://www.linkedin.com/in/tobymould/
 
 <!--
 **tobymould/tobymould** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
